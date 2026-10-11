@@ -35002,5 +35002,11 @@
     "address": "0xd34a99bc0f67ae1bbd63c660e6d0b0dd03e263b7",
     "symbol": "FP",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xf4c13d631450de6b12a19829e37c8e2826891dc4",
+    "symbol": "avUSD",
+    "decimals": 18
   }
 ]
