@@ -1,0 +1,12 @@
+[
+  {
+    "chainId": 1,
+    "address": "0xc139190f447e929f090edeb554d95abb8b18ac1c",
+    "expectedSymbol": "USDtb",
+    "tags": [
+      "stablecoin"
+    ],
+    "source": "https://docs.usdtb.money/key-addresses",
+    "note": "The official USDtb introduction identifies it as a USD stablecoin: https://docs.usdtb.money/"
+  }
+]

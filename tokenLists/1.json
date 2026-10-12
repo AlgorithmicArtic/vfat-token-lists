@@ -35008,5 +35008,14 @@
     "address": "0xf4c13d631450de6b12a19829e37c8e2826891dc4",
     "symbol": "avUSD",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xc139190f447e929f090edeb554d95abb8b18ac1c",
+    "symbol": "USDtb",
+    "decimals": 18,
+    "tags": [
+      "stablecoin"
+    ]
   }
 ]
