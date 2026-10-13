@@ -35017,5 +35017,29 @@
     "tags": [
       "stablecoin"
     ]
+  },
+  {
+    "chainId": 1,
+    "address": "0x41a4594575557efbf85cd950749bb0c1e99bcefd",
+    "symbol": "BUNKER",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x73df7018cbcb919ccde48c3f12f4326688ac4446",
+    "symbol": "DOPE",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x1b54e762aa34cf6e28e9c082f2848e28e45da6b8",
+    "symbol": "CLAUS",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xb32e10022ffbedfe10bc818a1c7e67d9d87e0fa7",
+    "symbol": "DIME",
+    "decimals": 18
   }
 ]

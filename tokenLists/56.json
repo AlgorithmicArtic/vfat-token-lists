@@ -41317,5 +41317,11 @@
     "address": "0xa5996fc5007dd2019f9a9ff6c50c1c847aa64444",
     "symbol": "CLZD",
     "decimals": 18
+  },
+  {
+    "chainId": 56,
+    "address": "0x5407912f1aa4b9e05cbe6abeb9721547a643ec6b",
+    "symbol": "LLYB",
+    "decimals": 18
   }
 ]

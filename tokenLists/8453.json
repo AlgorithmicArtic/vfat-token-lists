@@ -5878,5 +5878,23 @@
     "tags": [
       "stock"
     ]
+  },
+  {
+    "chainId": 8453,
+    "address": "0x61e030a56d33e8260fdd81f03b162a79fe3449cd",
+    "symbol": "FLUID",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xeeee77bc7e82c0d4166d52f58239d4c5bf41eeee",
+    "symbol": "WHUF",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x7e13b43065380acdec1c2d138c579cbbbafa0731",
+    "symbol": "TEL",
+    "decimals": 18
   }
 ]

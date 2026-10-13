@@ -2665,5 +2665,23 @@
     "address": "0x717d38587504b79e2e888c860bd1569c0d5984af",
     "symbol": "CHONK",
     "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0x43fc3c8440d85d7df99ecfbc6a267de8327f923b",
+    "symbol": "CLAUDIA",
+    "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0xc60ba256b44334a0cd2c7242e98b88f031abb006",
+    "symbol": "V4",
+    "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0xaa5751ff3fb61e613993b2eb4eab1fce017081fc",
+    "symbol": "HYDX",
+    "decimals": 18
   }
 ]
