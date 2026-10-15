@@ -2683,5 +2683,17 @@
     "address": "0xaa5751ff3fb61e613993b2eb4eab1fce017081fc",
     "symbol": "HYDX",
     "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0xe77d354898a44808ff3999947002785cd727bed5",
+    "symbol": "SFI",
+    "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0x8b84d644cecaee6d21373f37e1ba00f85ed7cdb7",
+    "symbol": "eUSD",
+    "decimals": 18
   }
 ]
