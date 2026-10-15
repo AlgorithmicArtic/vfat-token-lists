@@ -820,5 +820,17 @@
     "address": "0xd5ee1c81fe161e985dce6b90713c965f9979cf80",
     "symbol": "TREAD",
     "decimals": 18
+  },
+  {
+    "chainId": 999,
+    "address": "0xc80d9eb120d6e40e31d5ae9040d5fc0753c52da7",
+    "symbol": "ONEAR",
+    "decimals": 18
+  },
+  {
+    "chainId": 999,
+    "address": "0x43cdd2ccbeb38eb62fdf54e17afbabf450ebbb01",
+    "symbol": "ZAMA",
+    "decimals": 18
   }
 ]

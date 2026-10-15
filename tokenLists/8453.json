@@ -5896,5 +5896,149 @@
     "address": "0x7e13b43065380acdec1c2d138c579cbbbafa0731",
     "symbol": "TEL",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe908475f8beb7a138b0dc6eb5a05cb27068ffb9a",
+    "symbol": "DGLD",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xfe9ede4478ad200a2186175a81f9ce9f0e679270",
+    "symbol": "propaganda",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb616f8b391d1adc118fd7e4063526d5530d49b10",
+    "symbol": "tCOIN",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3073f7aaa4db83f95e9fff17424f71d4751a3073",
+    "symbol": "MOVE",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xe904aea5e1b110c9174728fa2effc8aed19e98ef",
+    "symbol": "PAXG",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000026215d755356e5043f",
+    "symbol": "ARMc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000d2b7d9aee52f6c6bef",
+    "symbol": "BIDUc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000ca7c6d1438e7245eb6",
+    "symbol": "BILIc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000c36ce081dd09e86ca2",
+    "symbol": "BUDc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000f3049f4aa834b23b64",
+    "symbol": "HSAIc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000f6b0417af5f52341fc",
+    "symbol": "INFYc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000d61efd9f54a23ef9eb",
+    "symbol": "LIc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000002d2b5dc53c61f1ba06",
+    "symbol": "NIOc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000005ac674f707e357409c",
+    "symbol": "NOKc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008d5328e9208773dc58",
+    "symbol": "NVOc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000c8a7223510467d8563",
+    "symbol": "PDDc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000017bb66e9301e913a99",
+    "symbol": "SANc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000da6f64c306234127e0",
+    "symbol": "SAPc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000003088798f6d0722aaac",
+    "symbol": "SEc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000187f7071d6e321a7d2",
+    "symbol": "SKHYc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000a26326a922ffa87f6c",
+    "symbol": "SONYc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000349ef3aa93a0897476",
+    "symbol": "ULc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000063376b142c0764b489",
+    "symbol": "VALEc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000e88efe88d8ade3f0da",
+    "symbol": "WRDc",
+    "decimals": 8
   }
 ]
