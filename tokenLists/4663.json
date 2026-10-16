@@ -2695,5 +2695,11 @@
     "address": "0x8b84d644cecaee6d21373f37e1ba00f85ed7cdb7",
     "symbol": "eUSD",
     "decimals": 18
+  },
+  {
+    "chainId": 4663,
+    "address": "0xbeeff033f34c046626b8d0a041844c5d1a5409dd",
+    "symbol": "steakUSDG",
+    "decimals": 18
   }
 ]
