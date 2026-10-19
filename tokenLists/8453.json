@@ -2434,7 +2434,7 @@
   },
   {
     "address": "0x102d758f688a4c1c5a80b116bd945d4455460282",
-    "symbol": "USD₮0",
+    "symbol": "USD\u20ae0",
     "decimals": 6,
     "chainId": 8453
   },
@@ -2647,7 +2647,7 @@
   },
   {
     "address": "0x253902da3f9b67b693e27f46ad2717c2e7647f3d",
-    "symbol": "Félicette",
+    "symbol": "F\u00e9licette",
     "decimals": 18,
     "chainId": 8453
   },
@@ -2719,7 +2719,7 @@
   },
   {
     "address": "0x3d5e487b21e0569048c4d1a60e98c36e1b09db07",
-    "symbol": "₸USD",
+    "symbol": "\u20b8USD",
     "decimals": 18,
     "chainId": 8453
   },
@@ -3181,19 +3181,19 @@
   },
   {
     "address": "0x09aa909eea859f712f2ae3dd1872671d2363f6f4",
-    "symbol": "✨❤️‍🔥🧙‍♂️",
+    "symbol": "\u2728\u2764\ufe0f\u200d\ud83d\udd25\ud83e\uddd9\u200d\u2642\ufe0f",
     "decimals": 18,
     "chainId": 8453
   },
   {
     "address": "0x817cab331aaa4c24b4e32024fca093ad40cba208",
-    "symbol": "❤️",
+    "symbol": "\u2764\ufe0f",
     "decimals": 18,
     "chainId": 8453
   },
   {
     "address": "0xd1b771cb462a4b0e4d56bb68b4bf832994cc8820",
-    "symbol": "🌱",
+    "symbol": "\ud83c\udf31",
     "decimals": 18,
     "chainId": 8453
   },
@@ -6040,5 +6040,17 @@
     "address": "0xb200000000000000000000e88efe88d8ade3f0da",
     "symbol": "WRDc",
     "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0x3af90fda10fc6509df55e959548b1ed3bc3cfa00",
+    "symbol": "avUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xa6ef20fe18cd529ca15a8a53a29d1832b1f848ff",
+    "symbol": "savUSD",
+    "decimals": 18
   }
 ]
