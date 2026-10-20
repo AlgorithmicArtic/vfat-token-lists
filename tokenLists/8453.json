@@ -6052,5 +6052,11 @@
     "address": "0x6cdda0e730744dc6ff67654b35350adad05ecee7",
     "symbol": "xAERO",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0x623c84a5e04bf715018203334b0efe41696ebc3e",
+    "symbol": "wDOOM",
+    "decimals": 18
   }
 ]
