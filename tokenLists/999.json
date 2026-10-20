@@ -832,5 +832,11 @@
     "address": "0x43cdd2ccbeb38eb62fdf54e17afbabf450ebbb01",
     "symbol": "ZAMA",
     "decimals": 18
+  },
+  {
+    "chainId": 999,
+    "address": "0x6b73113ac6d5455c17332098377a4b99ae553237",
+    "symbol": "PEAR",
+    "decimals": 18
   }
 ]
