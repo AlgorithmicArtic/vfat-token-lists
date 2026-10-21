@@ -1,9 +1,0 @@
-[
-    {
-        "chainId": 999,
-        "address": "0x8fF0dd9f9C40a0d76eF1BcFAF5f98c1610c74Bd8",
-        "symbol": "USH",
-        "decimals": 18,
-        "logoURI": "https://hyperevmscan.io/token/images/hyperstable_64.png"
-    }
-]
