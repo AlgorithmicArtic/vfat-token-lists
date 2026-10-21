@@ -838,5 +838,11 @@
     "address": "0x6b73113ac6d5455c17332098377a4b99ae553237",
     "symbol": "PEAR",
     "decimals": 18
+  },
+  {
+    "chainId": 999,
+    "address": "0x8ff0dd9f9c40a0d76ef1bcfaf5f98c1610c74bd8",
+    "symbol": "USH",
+    "decimals": 18
   }
 ]
