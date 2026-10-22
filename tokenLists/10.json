@@ -1798,5 +1798,11 @@
     "address": "0xbdeaea5205d16f34cb40038052d91235d87b4c54",
     "symbol": "xAERO",
     "decimals": 18
+  },
+  {
+    "chainId": 10,
+    "address": "0xe0080d2f853ecddbd81a643dc10da075df26fd3f",
+    "symbol": "ETHFI",
+    "decimals": 18
   }
 ]

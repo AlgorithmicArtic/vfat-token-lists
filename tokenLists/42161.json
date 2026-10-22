@@ -3014,5 +3014,11 @@
     "address": "0x436a085b2751cb87db270ffa66f8d698f87bec82",
     "symbol": "xAERO",
     "decimals": 18
+  },
+  {
+    "chainId": 42161,
+    "address": "0x0b2b2b2076d95dda7817e785989fe353fe955ef9",
+    "symbol": "sUSDai",
+    "decimals": 18
   }
 ]

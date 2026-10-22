@@ -6058,5 +6058,83 @@
     "address": "0x623c84a5e04bf715018203334b0efe41696ebc3e",
     "symbol": "wDOOM",
     "decimals": 18
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008a7508619c717a7106",
+    "symbol": "WMTc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000082cd2c7801305808df",
+    "symbol": "NOWc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000004aff16039ba04bdfbc",
+    "symbol": "INTCc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000e8e50cbbb9a3861a3c",
+    "symbol": "RKLBc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000f111184a74720787e6",
+    "symbol": "CRWVc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000008fde21a1f5c69fec0b",
+    "symbol": "WDCc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000720133eedf525f93e2",
+    "symbol": "CBRSc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000024170488e788cbbcb4",
+    "symbol": "BRK.Bc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000cae20cb1446462e24c",
+    "symbol": "UBERc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb20000000000000000000006f910a0e7bbd3c168",
+    "symbol": "APPc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000000bd75bf439a38bf7df",
+    "symbol": "DISc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb2000000000000000000009b870441031d4d8a41",
+    "symbol": "DKNGc",
+    "decimals": 8
+  },
+  {
+    "chainId": 8453,
+    "address": "0xb200000000000000000000d2f4cf2f7debb244bb",
+    "symbol": "MCDc",
+    "decimals": 8
   }
 ]

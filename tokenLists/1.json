@@ -35053,5 +35053,29 @@
     "address": "0x9e148c5716b5aadcfd3b71ceae9ee7a9e22c29e2",
     "symbol": "xAERO",
     "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x085780639cc2cacd35e474e71f4d000e2405d8f6",
+    "symbol": "fxUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x0655977feb2f289a4ab78af67bab0d17aab84367",
+    "symbol": "scrvUSD",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0x64351fc9810adad17a690e4e1717df5e7e085160",
+    "symbol": "msETH",
+    "decimals": 18
+  },
+  {
+    "chainId": 1,
+    "address": "0xab5eb14c09d416f0ac63661e57edb7aecdb9befa",
+    "symbol": "msUSD",
+    "decimals": 18
   }
 ]

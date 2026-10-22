@@ -274,5 +274,11 @@
     "address": "0x20077cc0d5e385a0fe9c91bbc7dc744f51559307",
     "symbol": "xAERO",
     "decimals": 18
+  },
+  {
+    "chainId": 5042,
+    "address": "0xf197ffc28c23e0309b5559e7a166f2c6164c80aa",
+    "symbol": "MXNB",
+    "decimals": 6
   }
 ]
